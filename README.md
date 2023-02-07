@@ -11,7 +11,7 @@
 - [Презентация по курсовой](https://github.com/TheTargetAdam/AVDoc/blob/main/Kursovaya_prez.pptx):pushpin:
 - [Trello](https://trello.com/b/6tiVTElm/сайт-youfree):pushpin:
 - [Miro](https://miro.com/welcomeonboard/SDNMOXZoRnh1S296N3ZHVU53bHh1WnNjcGx4bjVXa3FCY3lkN1N3TWZJcnhnQzJMY0swVnRkSEMxOXdSbURVb3wzNDU4NzY0NTM4OTI2Mjk2ODkwfDI=?share_link_id=395207601280):pushpin:
-- [Видео с кодом и работой проекта](https://github.com/TheTargetAdam/AVDoc/blob/main/Bandicam.mp4)
+- [Видео с кодом и работой проекта](https://github.com/TheTargetAdam/AVDoc/blob/main/bandicam 2022-11-17 22-14-43-231.mp4)
 - [Видео с презентацией(защитой проекта)](https://github.com/TheTargetAdam/AVDoc/blob/main/BandicamPrez.mp4)
 
 ## В данной репозитории представлен backend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
