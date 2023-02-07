@@ -6,8 +6,8 @@
 ## Команда разработчиков(я, к сожалению, тут один)
 #### -Воробьёв Адам Николаевич
 ## Также предоставлю нужные ссылки, чтоб вы лучше смогли разобраться в проекте:
-- [Техническое задание](https://github.com/TheTargetAdam/AVDoc/blob/main/TekhZ.pdf):pushpin:
-- [Курсовая работа](https://github.com/TheTargetAdam/AVDoc/blob/main/Kursovaya.pdf):pushpin:
+- [Техническое задание](https://github.com/TheTargetAdam/AVDoc/blob/main/TZ.pdf):pushpin:
+- [Курсовая работа](https://github.com/TheTargetAdam/AVDoc/blob/main/AVKursovaya.pdf):pushpin:
 - [Презентация по курсовой](https://github.com/TheTargetAdam/AVDoc/blob/main/Kursovaya_prez.pptx):pushpin:
 - [Trello](https://trello.com/b/6tiVTElm/сайт-youfree):pushpin:
 - [Miro](https://miro.com/welcomeonboard/SDNMOXZoRnh1S296N3ZHVU53bHh1WnNjcGx4bjVXa3FCY3lkN1N3TWZJcnhnQzJMY0swVnRkSEMxOXdSbURVb3wzNDU4NzY0NTM4OTI2Mjk2ODkwfDI=?share_link_id=395207601280):pushpin:
