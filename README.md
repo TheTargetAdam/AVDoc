@@ -16,6 +16,6 @@
 
 ## В данной репозитории представлен backend приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
-- [Backend](https://github.com/TheTargetAdam/back):point_left:
+- [Backend](https://github.com/TheTargetAdam/backend):point_left:
 
 ## Большое Спасибо всем, кого заинтерисовал мой проект!
